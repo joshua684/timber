@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+}
+#welcome{
+    background-image: linear-gradient(lightgreen,blue);
+    z-index:9;
+}
+img{
+    border-radius: 50%;
+}
+.menu{
+  right:0px;
+    z-index:10;
+    list-style:none;
+    position: absolute;
+}
+.links{
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+        
+}
+.links:hover{
+    background-color:aquamarine;
+}
+    
+        
